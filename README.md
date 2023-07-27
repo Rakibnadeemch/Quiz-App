@@ -1,7 +1,5 @@
-# quiz_app
+# Quiz App
 
-A new Flutter project.
-
+A 9-question quiz app.
 ## Getting Started
-
-This project is a starting point for a Flutter application.
+You can add as many questions and answers as you want by just adding the small code.
